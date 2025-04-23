@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prjSharedPreferences</string>
+    <string name="enter">ENTER</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="shared_preferences_demo">Shared Preferences Demo</string>
+</resources>
